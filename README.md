@@ -99,7 +99,11 @@ int fjarlaegd() {
 
 [![Myndband](https://i.ytimg.com/vi/jkB-AlOwPUE/hq2.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYSiBlKEcwDw==&rs=AOn4CLBIq4EuMFZlA7SF92BV9sHLipYARg)](https://youtube.com/shorts/jkB-AlOwPUE?feature=share)
 
+### Hreyfing
+
 [![Myndband](https://i9.ytimg.com/vi/M5PZUiJe6Es/mq2.jpg?sqp=CLjz8p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBMKD4wDw==&rs=AOn4CLAewfKnpSoWK11E9JoxXtRi9xgpcw)](https://www.youtube.com/shorts/M5PZUiJe6Es)
+
+### Lokaniðurstaða
 
 [![Myndband](https://i9.ytimg.com/vi/p6S7PY_sBiY/mqdefault.jpg?sqp=CIzx8p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYciBUKD8wDw==&rs=AOn4CLBD0xUvTky2BsgvcuuXJIVcAhUQJA)](https://www.youtube.com/shorts/p6S7PY_sBiY)
 
