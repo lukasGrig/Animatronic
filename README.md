@@ -4,6 +4,8 @@ Við notuðum 2 servó mótora. Einn fyrir kjálkann og einn fyrir líkamshreyfi
 
 Hann er 48 cm hátt, sýrka 49cm breidd og 42 cm lengd
 
+Við notum aðallega heimildir frá ``https://github.com/VESM1VS/AFANGI/blob/main/Verkefni/Verkefni5.md fyrir kóðadæmi`` og útskýringar á því sem við þurfum að gera en við notuðum líka aðrar heimildir til að skilja hvernig það virkar eins og ``https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/``
+
 ## Kóðan
 
 ```python
