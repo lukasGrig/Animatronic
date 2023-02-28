@@ -101,10 +101,10 @@ int fjarlaegd() {
 
 ### Hreyfing
 
-[![Myndband](https://i9.ytimg.com/vi/M5PZUiJe6Es/mq2.jpg?sqp=CLjz8p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBMKD4wDw==&rs=AOn4CLAewfKnpSoWK11E9JoxXtRi9xgpcw)](https://www.youtube.com/shorts/M5PZUiJe6Es)
+[![Myndband](https://i9.ytimg.com/vi/M5PZUiJe6Es/mqdefault.jpg?sqp=CNDf9p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBMKD4wDw==&rs=AOn4CLDnlBSueFqayNqS2RCTTPgRxc0X3A)](https://www.youtube.com/shorts/M5PZUiJe6Es)
 
 ### Lokaniðurstaða
 
-[![Myndband](https://i9.ytimg.com/vi/p6S7PY_sBiY/mqdefault.jpg?sqp=CIzx8p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYciBUKD8wDw==&rs=AOn4CLBD0xUvTky2BsgvcuuXJIVcAhUQJA)](https://www.youtube.com/shorts/p6S7PY_sBiY)
+[![Myndband](https://i9.ytimg.com/vi/p6S7PY_sBiY/mqdefault.jpg?sqp=CNDf9p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYciBUKD8wDw==&rs=AOn4CLAgXghaWrP8WoIbmo_QBfD5Yf7P8g)](https://www.youtube.com/shorts/p6S7PY_sBiY)
 
 **Emil Sharifi, Lukas Grigaliunas, Lúkas Aron Speight**
