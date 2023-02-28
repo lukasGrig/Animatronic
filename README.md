@@ -107,4 +107,8 @@ int fjarlaegd() {
 
 [![Myndband](https://i9.ytimg.com/vi/p6S7PY_sBiY/mqdefault.jpg?sqp=CNDf9p8G-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYciBUKD8wDw==&rs=AOn4CLAgXghaWrP8WoIbmo_QBfD5Yf7P8g)](https://www.youtube.com/shorts/p6S7PY_sBiY)
 
+### Mynd 
+
+![Mynd](https://cdn.discordapp.com/attachments/1062375783718469663/1080034786132897802/20230220_120658.jpg)
+
 **Emil Sharifi, Lukas Grigaliunas, Lúkas Aron Speight**
